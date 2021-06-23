@@ -31,8 +31,8 @@ imgs["font"] = pygame.font.Font(os.path.join("imgs", "FreeSansBold.ttf"), 20)
 
 #Music
 music = {}
-music["theme1"] = os.path.join("music", "theme1.mp3")
-music["theme2"] = os.path.join("music", "theme2.mp3")
+# music["theme1"] = os.path.join("music", "theme1.mp3")
+# music["theme2"] = os.path.join("music", "theme2.mp3")
 first_song = 1
 play_turn = first_song
 def load_music():
